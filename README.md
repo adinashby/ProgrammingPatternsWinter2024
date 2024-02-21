@@ -1,3 +1,3 @@
-# Programming Patterns - Fall 2023 - Vanier
+# Programming Patterns - Winter 2024 - Vanier
 
-This repository contains materials for Programming Patterns course Fall 2023.
+This repository contains materials for Programming Patterns course Winter 2024.
