@@ -18,9 +18,9 @@ Example 1:
 Input: secret = "1807", guess = "7810"
 Output: "1A3B"
 Explanation: Bulls are connected with a '|' and cows are underlined:
-"1807"
+"<ins>1</ins>807"
   |
-"7810"
+"78<ins>1</ins>0"
 ```
 
 Example 2:
